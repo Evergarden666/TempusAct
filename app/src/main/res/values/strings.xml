@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempusAct</string>
+    <string name="timer_channel">正在计时</string>
+    <string name="result_channel">计时完成</string>
+</resources>
